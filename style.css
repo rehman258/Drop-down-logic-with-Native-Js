@@ -1,0 +1,10 @@
+body{
+	background-color: grey;
+}
+.myelem1{
+	float: left;
+	margin-right: 30px;
+}
+.open_drop{
+	display:inline-block !important; 
+}
